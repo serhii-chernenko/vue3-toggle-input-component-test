@@ -57,5 +57,8 @@
         "msw",
         "prettier",
         "vitest"
-    ]
+    ],
+    "resolutions": {
+        "rollup": "npm:@rollup/wasm-node"
+    }
 }
